@@ -1,8 +1,7 @@
 //
 //  {module}Interactor.swift
-//  {project}
 //
-//  Created by {author} on {date}.
+//  Created by Alfredo Baez on {date}.
 //
 
 import Foundation
